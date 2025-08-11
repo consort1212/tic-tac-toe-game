@@ -2,6 +2,7 @@
 FROM nginx:alpine
 
 # Step 2: Copy HTML, CSS, JS files into nginx web directory
+RUN rm -rf /usr/share/nginx/html/*
 COPY . /usr/share/nginx/html
 
 # Step 3: Expose port
