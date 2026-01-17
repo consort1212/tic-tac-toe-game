@@ -2,18 +2,19 @@
 
 🔍 **QA Engineer** with hands-on experience in  
 - Manual Testing
+- Web & mobile app testing
 - API Testing (Postman)
+- linux ( proficiency )
 - Automation Testing (Selenium)
 - JavaScript for Testing
+- SDLC & STLC
 - Git & GitHub
 
----
-
-## 🛠 Skills
+**## 🛠 Skills***
 - Manual Testing (Test Case, RTM, Bug Reporting)
 - API Testing (Postman, Newman)
 - Automation (Selenium, JavaScript)
-- Tools: Git, GitHub, JIRA
+- Tools: Git, GitHub
 - Basics of CI/CD
 
 ---
