@@ -10,7 +10,7 @@ function startGame() {
         alert("Please enter both player names!");
         return;
     }
-    players.X = p1;
+    players.X = p1;S
     players.O = p2;
     document.getElementById("startScreen").style.display = "none";
     document.getElementById("gameContainer").style.display = "block";
